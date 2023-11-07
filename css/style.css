@@ -2,5 +2,21 @@
     width: 150px;
     height: auto;
     padding: 0px 10px;
-    p
 }
+
+.jumbotron {
+    background-color: plum;
+}
+.contact-links {
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+/*
+}
+
+*{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+*/
