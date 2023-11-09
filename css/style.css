@@ -15,3 +15,25 @@
     justify-content:space-around;
     align-items:center;
 }
+
+h1{
+    text-align: center;
+}
+
+.card-text-skills{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+#project-image-2{
+    height: 450px;
+}
+
+#project-image-3{
+    height: 450px;
+}
+
+#project-image-4{
+    height: 450px;
+}
