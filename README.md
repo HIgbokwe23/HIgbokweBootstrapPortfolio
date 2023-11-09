@@ -9,7 +9,7 @@ I have created this portfolio using Bootstrap to showcase my projects to potenti
 
 Deployed on GitHub Pages
 
-[This is the link to my webpage](file:///C:/Users/Hannah/bootcamp/HIgbokweBootstrapPortfolio/index.html#About-Me)
+[This is the link to my webpage](https://higbokwe23.github.io/HIgbokweBootstrapPortfolio/)
 
 [This is the link to my git hub repo](https://github.com/HIgbokwe23/HIgbokweBootstrapPortfolio)
 
@@ -17,7 +17,7 @@ Deployed on GitHub Pages
 
 To be used by myself and future employers.
 
-![This is a screenshot of my deployed app](../HIgbokweBootstrapPortfolio/images/screencapture-higbokwe23-github-io-HIgbokweBootstrapPortfolio-2023-11-09-12_52_18.png)
+![This is a screenshot of my deployed app](./images/screencapture-higbokwe23-github-io-HIgbokweBootstrapPortfolio-2023-11-09-12_52_18.png)
 
 ## Credits
 
