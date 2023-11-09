@@ -17,7 +17,7 @@ Deployed on GitHub Pages
 
 To be used by myself and future employers.
 
-![[This is a screenshot of my deployed app]](../HIgbokweBootstrapPortfolio/images/screencapture-higbokwe23-github-io-HIgbokweBootstrapPortfolio-2023-11-09-12_52_18.png)
+![This is a screenshot of my deployed app](../HIgbokweBootstrapPortfolio/images/screencapture-higbokwe23-github-io-HIgbokweBootstrapPortfolio-2023-11-09-12_52_18.png)
 
 ## Credits
 
